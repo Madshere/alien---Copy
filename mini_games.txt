@@ -1,0 +1,1 @@
+- We'll develop mini-games for the app that users can play with their virtual pets.\\n- The games will be tailored to each pet's personality and appearance and may include puzzle games, memory games, and reaction games, among others.\\n- Users can earn rewards that they can use to purchase items for their virtual pets or unlock new games.

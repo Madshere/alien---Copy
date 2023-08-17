@@ -1,0 +1,5 @@
+We will use the following website as a reference to create an interactive Figma prototype with guided breathing and grounding techniques:
+
+- https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+
+This document was created using the 'write_to_file' command.

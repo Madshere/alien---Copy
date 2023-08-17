@@ -1,0 +1,1 @@
+- Creating interactive features for users to feed, play games, and interact with the virtual alien pets through touch and voice commands.\\n- Assigning different foods and games been available to each pet.\\n- Interact with pets through touch and voice recognition that will trigger various reactions in pets, such as petting, feeding, and cleaning.

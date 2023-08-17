@@ -1,0 +1,17 @@
+Landing Page
+- Adopt Virtual Pet
+- Customize Breathing Techniques
+- Invite Friends
+
+Virtual Pet Page
+- Display Pet's Avatar
+- Display Pet's Name
+- Show vital Information
+- Feed Pet
+- Play Games with Pet
+- Interact with Pet through touch and voice commands
+
+Breathing technique Customization Page
+- Sound customization
+- Duration customization
+- Visualization of breathing techniques.

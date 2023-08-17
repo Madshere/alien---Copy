@@ -1,0 +1,17 @@
+{
+    "personality1": {
+        "appearance": "appearance1.png",
+        "behavior": "happy",
+        "sound": "happy_sound.mp3"
+    },
+    "personality2": {
+        "appearance": "appearance2.png",
+        "behavior": "calm",
+        "sound": "calm_sound.mp3"
+    },
+    "personality3": {
+        "appearance": "appearance3.png",
+        "behavior": "playful",
+        "sound": "playful_sound.mp3"
+    }
+}

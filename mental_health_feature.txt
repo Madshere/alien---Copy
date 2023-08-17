@@ -1,0 +1,1 @@
+- Implement virtual 3D guided breathing and grounding techniques that users can customize.\\n- Visualization and audio for the breathing and grounding will help users practice and develop relaxation techniques, which can benefit their mental health.

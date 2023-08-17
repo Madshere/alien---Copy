@@ -1,0 +1,1 @@
+- Conduct a code review to ensure the app meets coding standards and security compliances.\\n- Use third-party tools to check performance and resource usage on different platforms.\\n- Develop thorough documentation for future reference.

@@ -1,0 +1,1 @@
+- Develop interactive game features utilizing touch and voice commands.\\n- Use third-party tools to improve performance and resource usage over different systems.\\n- Prioritize ease-of-use and simplicity to ensure that games are accessible to all users.

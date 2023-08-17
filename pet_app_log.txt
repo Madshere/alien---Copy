@@ -1,0 +1,3 @@
+
+Reminder: Using `exec()` to execute user input as code can introduce security vulnerabilities. Consider using caution when using this function or refactoring the code to return a function that generates a single pet and calling it in a loop instead.
+Reminder: Using `exec()` to execute user input as code can introduce security vulnerabilities. Consider using caution when using this function or refactoring the code to return a function that generates a single pet and calling it in a loop instead.

@@ -1,0 +1,10 @@
+Evaluation of Plotly library: 
+Plotly is a Python visualization library that provides a variety of plotting options. It is powerful and is well-suited for interactive plots and dashboards, providing a JavaScript-based plot editor, which is compatible with most platforms and browsers. Notable features of Plotly include:
+- Ease of use
+- Compatibility with a variety of software
+- Customization options
+
+Cons:
+- Steep learning curve
+- Certain custom features require a subscription.
+- Occasionally, it may be slow or unresponsive

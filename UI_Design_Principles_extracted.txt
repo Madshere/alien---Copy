@@ -1,0 +1,9 @@
+UI Design Principles Extracted from Search Results on 3D Graphics and Animation for Mobile Apps:
+1. Consistent Design Elements
+2. Effective Visual Hierarchy
+3. Mixing Art and Graphics Styles
+4. Minimize Design Complexity
+5. Design for Mobile Interactions and Resolutions
+6. Incorporating Correct Design Metaphors
+7. Include User Feedback and Analytics
+8. Optimize Design for Target User Base

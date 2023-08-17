@@ -1,0 +1,1 @@
+- Develop a widget that displays a randomized pet in a resting state.\\n- Implement the ability to enter the 3D guided breathing and grounding techniques interface through the widget.\\n- Provide configurable and customizable options for the breathing and grounding techniques.

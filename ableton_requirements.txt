@@ -1,0 +1,6 @@
+The Ableton Live 11 system requirements are as follows: 
+-compatible with macOS and Windows
+-processor: Intel® Core™ i5 processor or Apple M1 processor
+-RAM: 8 GB
+-storage: approximately 3 GB disk space on the system drive for basic installation, up to 76 GB for additional sound content
+-ASIO compatible audio hardware is recommended for Link support.

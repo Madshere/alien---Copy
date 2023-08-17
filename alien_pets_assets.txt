@@ -1,0 +1,3 @@
+- Create animations and sound effects that enhance alien pets and their interactions
+- Create breathing and grounding cues that encourage continued usage of the breathing and grouding techniques
+- Utilize JavaScript frameworks for animations and audio elements

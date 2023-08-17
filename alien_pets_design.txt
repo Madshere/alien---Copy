@@ -1,0 +1,4 @@
+- Create a design system for different alien pets
+- Develop interactions such as feeding, playing games, and voice commands and touch
+- Generate relaxing sounds and visuals unique to the pet's personality and behavior
+- Provide a unique experience for each pet that fosters user engagement and attachment to the app.

@@ -1,0 +1,2 @@
+
+- Feed feature: allows users to feed virtual pet using different kinds of food\n- Play feature: allows users to play games with the virtual pet\n- Touch feature: allows users to interact with virtual pet through touch\n- Voice feature: allows users to interact with virtual pet through voice

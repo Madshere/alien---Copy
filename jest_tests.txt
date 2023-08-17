@@ -1,0 +1,3 @@
+- Write Jest-based unit tests for interactive features (feeding, playing games, and interactions) and breathing and grounding techniques functions.
+- Tests should cover each function separately, ensuring correct results 
+- Ensure local file storage and encryption functionality

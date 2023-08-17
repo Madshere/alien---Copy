@@ -1,0 +1,1 @@
+- Integrate virtual 3D guided breathing and grounding techniques that users can customize.\\n- Create a grounding three-step process that includes identification of triggers, breathing exercises, and positive affirmations.\\n- Providing visual and audio cues with these techniques creates a more immersive and personalized experience for the user.

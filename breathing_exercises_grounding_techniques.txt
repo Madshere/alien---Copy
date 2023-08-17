@@ -1,0 +1,1 @@
+- Implement virtual 3D guided breathing and grounding techniques that users can customize.\\n- Provide different breathing exercises, such as deep breathing, diaphragmatic breathing and box breathing exercises.\\n- Implement grounding techniques that help users stay in the moment and manage their anxiety levels.

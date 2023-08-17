@@ -1,0 +1,27 @@
+MARTIAN MUDKIP:
+Feed: Martian Mudkip loves eating bugs. 
+ 
+Play: Martian Mudkip enjoys playing hide and seek with its caretaker. 
+ 
+Interact: If Martian Mudkip feels neglected, it will squirt its caretaker with water - watch out! 
+ 
+JUPITERIAN JELLYFISH: 
+Feed: Jupiterian Jellyfish loves to eat small fish. 
+ 
+Play: Jupiterian Jellyfish likes playing with bubbles. 
+ 
+Interact: If Jupiterian Jellyfish feels happy, it will make its tentacles glow. 
+ 
+VENUSIAN VULTURE: 
+Feed: Venusian Vulture eats seeds and berries. 
+ 
+Play: Venusian Vulture enjoys playing with shiny objects. 
+ 
+Interact: If Venusian Vulture feels threatened, it will fly in circles around its caretaker as a warning. 
+ 
+NEPTUNIAN NARWHAL: 
+Feed: Neptunian Narwhal consumes algae and plankton. 
+ 
+Play: Neptunian Narwhal loves playing with sea shells. 
+ 
+Interact: If Neptunian Narwhal feels lonely, it will hum a beautiful song to its caretaker to express its feelings.

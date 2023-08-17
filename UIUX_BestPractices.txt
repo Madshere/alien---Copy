@@ -1,0 +1,12 @@
+Websites with helpful UI/UX design principles that we found through our research: 
+- https://www.hongkiat.com/blog/web-design-trends-predictions/ 
+- https://www.invisionapp.com/inside-design/interactive-design-tips; and more. 
+
+Best practices for UI/UX development that our team will follow throughout the development process: 
+- Keep layouts simple and functional; users should implicitly understand how the app works. 
+- Remember that the user interface should be intuitive and meet the users' needs. 
+- Stick to standardized platforms, such as Material Design and iOS guidelines.
+- Ensure accessibility for all users, regardless of ability. 
+- Follow a pattern and principle hierarchy, especially when designing large applications. 
+- Continually test user responses throughout development to ensure that our app meets our users' needs. 
+- Use motion to enhance both user experience and accessibility, and to create a visually appealing and memorable app. 

@@ -1,0 +1,3 @@
+Issue #1: Virtual pet images not displaying correctly, severity level: high
+Issue #2: virtual 3D guided breathing freezes occasionally, severity level: medium
+Issue #3: virtual pet's emotion expression not updating when interacting with users, severity level: low

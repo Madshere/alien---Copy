@@ -1,0 +1,2 @@
+
+Panda3D: Yes, according to the text, it is possible to use Panda3D to implement 3D graphics for virtual pets' interactive backgrounds. The text describes Panda3D as an open-source engine for realtime 3D games, simulations, and experiments that provides extensive documentation and is free to use for commercial use under the permissive BSD license.

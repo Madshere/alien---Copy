@@ -1,0 +1,1 @@
+const calculateGroundingExercises = ({exerciseTime = 10}) => {\n  const exercises = breathingExercises.map(({ audio, animation, tactile }, i) => {\n    const duration = exerciseTime / (i + 1);\n    return { audio, animation, tactile, duration };\n  });\n  return exercises;\n}\n\nconst groundingExercises = calculateGroundingExercises({exerciseTime: 10});

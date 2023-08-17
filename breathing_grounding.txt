@@ -1,0 +1,1 @@
+- Create 3D animations in Blender that match different breathing and grounding techniques.\n- Integrate the 3D animations with the user interface in Unity.\n- Add real-time customization options for the breathing and grounding techniques.\n- Introduce guided meditation with a voice command option.

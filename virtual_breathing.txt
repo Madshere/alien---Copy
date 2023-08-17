@@ -1,0 +1,1 @@
+- Integrate a 3D guided breathing and grounding technique feature to the app\\n- Develop a UI for visual cues indicating inhale/exhale motions\\n- Provide customization options for user speed, time and breathing patterns\\n- Introduce soundscapes for immersive experience.\\n- Develop an interactive stress level sensing system by integrating sensors on user devices.

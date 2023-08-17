@@ -1,0 +1,11 @@
+Evaluation of Matplotlib library: 
+Matplotlib is a widely used data visualization library that provides a variety of graphical displays and a wide range of customization options. It is particularly useful for scientific applications. Some notable features of Matplotlib include:
+- Compatibility with a wide range of platforms and operating systems
+- Variety of plot types
+- Integration with other scientific python libraries like numpy and pandas
+- Highly customizable graph aesthetics (colors, fonts, etc.)
+
+Cons:
+- Steep learning curve
+- Plot customization can be time-consuming
+- Library can sometimes be heavy and slow

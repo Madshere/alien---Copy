@@ -1,0 +1,3 @@
+- Implement interactive features including feeding, playing games, and interacting with them through touch and voice commands
+- Generate different sounds and visuals responses to pets to foster attachment to pets
+- Use GPT-3.5 powered agents for simple task delegation

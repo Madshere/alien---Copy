@@ -1,0 +1,1 @@
+- Implement randomized rewards system for feeding and playing game mechanics.\n- Use GPT-3.5-powered scripts to personalize pets' response to different types of foods and toys.

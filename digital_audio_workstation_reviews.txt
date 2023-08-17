@@ -1,0 +1,42 @@
+Command google returned: [
+    {
+        "title": "The Best Digital Audio Workstations (DAWs) for 2023 | PCMag",
+        "href": "https://www.pcmag.com/picks/the-best-audio-editing-software",
+        "body": "Best for Making Beats Jump To Details $299.00 at Amazon See It Magix Sequoia Best for High-End Mastering Jump To Details Available at MAGIX Check Price PreSonus Studio One Best for Fast..."
+    },
+    {
+        "title": "Best DAWs 2023 | MusicRadar",
+        "href": "https://www.musicradar.com/news/the-best-daws-the-best-music-production-software-for-pc-and-mac",
+        "body": "We round-up the best music production software packages Included in this guide: 1 Ableton Live 11 Intro Check Price 2 null View 3 null View 4 Steinberg Cubase 12 Check Price 5 Presonus Studio One 5 Professional View 6 null View 7 Reason Studios Reason 12 Check Price 8 Bitwig Studio 4 View 9 null View 10 Acoustica Mixcraft 9 Pro Studio View 11 Avid"
+    },
+    {
+        "title": "Best Digital Audio Workstation - Music Production Nerds",
+        "href": "https://musicproductionnerds.com/what-is-the-best-digital-audio-workstation",
+        "body": "With a long list of names such as Flume, Diplo, Dada Life, Skrillex, Bauuer, Flosstradamus, Deadmou5, and so on, you can't go wrong with choosing Ableton Live as your workstation. Its workflow is simple and clean, uncluttered, and businesslike. Using this DAW makes you feel like a professional."
+    },
+    {
+        "title": "Best Digital Audio Workstations (DAW) - 2023 Reviews & Comparison",
+        "href": "https://sourceforge.net/software/digital-audio-workstations-daw/",
+        "body": "Digital audio workstations (DAW) provide users with interactive platforms and interfaces for recording, producing and editing audio files. Compare the best Digital Audio Workstations (DAW) currently available using the table below. Adobe Audition Adobe A professional audio workstation."
+    },
+    {
+        "title": "Best audio editors 2023 | TechRadar",
+        "href": "https://www.techradar.com/best/best-audio-editor",
+        "body": "And to produce crisp, professional-grade audio, you\'ll need top music production software and digital audio workstations (DAW). ... Read our full Ashampoo Music Studio 9 review . Best audio ..."
+    },
+    {
+        "title": "The Best Digital Audio Workstations for Windows - Review Geek",
+        "href": "https://www.reviewgeek.com/4565/THE-BEST-DIGITAL-AUDIO-WORKSTATIONS-FOR-WINDOWS/",
+        "body": "The Best Paid Option for Most People: Reaper ($60/$225) When it comes to getting the most bang for your buck out of a DAW, there\'s pretty much no contest: Reaper is it. This ultra-powerful workstation ticks all the boxes to make it good enough for a pro studio to use, but it does it at a fraction of the cost: a $60 \"discounted license ..."
+    },
+    {
+        "title": "The Best DAW Digital Audio Workstation Software Buyer Guide",
+        "href": "https://www.digitalaudiowiz.com/best-digital-audio-workstation-reviews/",
+        "body": "The Best Digital Audio Workstation For Your Home Studio Ableton Live Ableton is, in our opinion, a great DAW to kick things off with. It is relatively cheap, offers great variety in terms of customization and sounds and last but not least - it offers you the best of the two worlds. Which two worlds you wonder?"
+    },
+    {
+        "title": "11 Best DAWs in 2023 [The Best Audio Editing Software for Beginners]",
+        "href": "https://www.recordingbase.com/best-daw/",
+        "body": "FL Studio is multitrack audio recording software that allows you to record and mix multiple tracks simultaneously. Warping (Time stretching) - This feature allows you to time automatically or manually stretch imported audio to match the project tempo."
+    }
+]

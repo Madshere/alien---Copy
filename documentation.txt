@@ -1,0 +1,6 @@
+Refactored the code based on the suggestions provided by the 'evaluate code' command: 
+- Imported specific modules from the Three.js library 
+- Declared the `animate` function using the arrow function syntax 
+- Used `let` or `const` instead of `var` 
+- Added comments to the code 
+- Enforced consistent code style using a linter 

@@ -1,0 +1,1 @@
+- We'll use GPT-3.5 powered agents to generate creative and original names based on the virtual pet's personality and appearance.\\n- Provide the agents with a list of defined personality traits and appearances for each pet that we want to generate names for. \\n- Review the names generated and shortlist the best ones based on our preferences.

@@ -1,0 +1,43 @@
+MARTIAN MUDKIP:
+Health: 100% 
+Hunger: 50% 
+Playfulness: 50% 
+Intelligence: 60% 
+
+- Feed mudkip 
+- Play with mudkip 
+- Teach mudkip a new trick 
+- Ask mudkip for a fact 
+
+JUPITERIAN JELLYFISH: 
+Health: 100% 
+Hunger: 70% 
+Playfulness: 70% 
+Intelligence: 80% 
+
+- Feed jellyfish 
+- Play with jellyfish 
+- Teach jellyfish a new trick 
+- Ask jellyfish for a fact 
+
+VENUSIAN VULTURE:
+Health: 100% 
+Hunger: 40% 
+Playfulness: 40% 
+Intelligence: 90% 
+
+- Feed vulture 
+- Play with vulture 
+- Teach vulture a new trick 
+- Ask vulture for a fact 
+
+NEPTUNIAN NARWHAL: 
+Health: 100% 
+Hunger: 60% 
+Playfulness: 60% 
+Intelligence: 70% 
+
+- Feed narwhal 
+- Play with narwhal 
+- Teach narwhal a new trick 
+- Ask narwhal for a fact

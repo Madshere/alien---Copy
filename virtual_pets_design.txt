@@ -1,0 +1,23 @@
+Alien Pet 1:
+- Name: Cosmo 
+- Color Scheme: Purple, Pink, Blue
+- Shape: Round with stubby arms and legs 
+- Unique Features: Glittering fur 
+- Personality: Playful and adventurous, but easily frightened 
+- Interactive Behaviors: Responds positively to touch, especially around the ears and belly, enjoys playing a game of catch. 
+
+Alien Pet 2: 
+- Name: Zorg 
+- Color Scheme: Green and Yellow 
+- Shape: Angular and pointed 
+- Unique Features: Fluffy tail 
+- Personality: Curious yet cautious, loves to explore but also values security 
+- Interactive Behaviors: Enjoys chasing light sources, responds positively to voice commands, especially when given praise. 
+
+Alien Pet 3: 
+- Name: Jabberwocky 
+- Color Scheme: Orange and Red 
+- Shape: Long and serpentine 
+- Unique Features: Crinkly scales 
+- Personality: Sleepy yet curious, slow and steady, but always up for a nice chat. 
+- Interactive Behaviors: Responds positively to soft touches and calms down with virtual deep breathing exercises.

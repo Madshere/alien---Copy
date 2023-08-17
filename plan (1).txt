@@ -1,0 +1,6 @@
+- Use resources gathered from the google search to guide the development of the app or widget
+- Write a plan.txt file that outlines the necessary steps for developing the virtual pets and implementing the interactive features and 3D visualization techniques
+    - Create classes for the virtual pets
+    - Design a user interface for the app or widget
+    - Develop the guided breathing and grounding techniques
+    - Reference relevant resources from the google search

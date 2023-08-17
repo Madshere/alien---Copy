@@ -1,0 +1,10 @@
+List of predefined sound assets suitable for the virtual alien pets:
+1. Calming Ocean Waves
+2. Relaxing Fireplace Sounds
+3. Soothing Thunderstorm
+4. Chirping Birds
+5. Forest Sounds
+6. Spa Music
+7. Gymnopedie No. 1 by Erik Satie
+8. Clair De Lune by Claude Debussy
+9. Rhapsody in Blue by George Gershwin. 

@@ -1,0 +1,4 @@
+- Design an interactive front-end incorporating alien pets and their interactive features, breathing and grounding techniques, and user customization
+- Prioritize intuitive and attractive visual elements, and design patterns easy to understand
+- Design with responsiveness in mind to ensure optimal use across different devices
+- Utilize industry standards and user interface guidelines to create an accessible interface.

@@ -1,0 +1,8 @@
+
+
+List of Interactive Features for Our Virtual Alien Pets:
+- Feed your pet by selecting different types of food with touch controls
+- Play games with your pet, such as catch or hide and seek
+- Interact with your pet through a variety of touch and voice commands, such as petting or hugging
+- Progression system that rewards users for taking good care of their pets, such as unlocking new items or features
+- Customizable environments for users to create a unique home for their virtual pet

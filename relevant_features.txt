@@ -1,0 +1,6 @@
+Main Features of the ROG Virtual Pet:
+- Smart assistant and animated pet
+- Customizable through various settings and features
+- Main menu with options for Character, Gallery, Mini Games, and Settings
+- Dialogue function for interacting with the pet
+- Apply Effect and Action Quick Swap (Ultimate edition, only supports ROG Zephyrus G14 Series laptops)
